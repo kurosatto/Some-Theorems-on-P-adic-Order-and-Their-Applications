@@ -9,7 +9,7 @@ Using the auxiliary function called p-adic order is useful in working with expon
 
 We also applied it to prove a bunch of well-known theorems relating to primitive roots, proved Euler Theorem and proved some special cases of famous Preda-Mihalescu Theorem and Fermat's Last Theorem. We also shared some Mathematics Olympiad problems for the students interested in math competitions.
 
-# We got the awards
+# Awards
 
 -2010 Best High School Project in Math - Scientific and Technological Research Council of Turkey
 
