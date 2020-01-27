@@ -4,10 +4,10 @@ This is my friend Cuneyd Ozturk's and my project we worked on in high school. We
 
 # Abstract
 
-Using the auxiliary function called p-adic order is useful working with exponential Diophantine equations. One can prove the theorems in the main section of this article (also known as Lifting the Exponent Lemmas) using p-adic order which is a powerful tool to construct simple proofs for many theorems. Here we had several simple proofs for known theorems in number theory. The most impressive result of this work is we proposed a generalized version of Zsigmondy's Theorem by relaxing the condition k < m when m does not divie k. 
+Using the auxiliary function called p-adic order is useful in working with exponential Diophantine equations. One can prove the theorems in the main section of this article (also known as Lifting the Exponent Lemmas) using p-adic order which is a powerful tool to construct simple proofs for many theorems. Here we had several simple proofs for known theorems in number theory. The most impressive result of this work is we proposed a generalized version of Zsigmondy's Theorem by relaxing the condition k < m when m does not divide k. 
 
 
-We also applied it to prove a bunch of well-known theorems relating to primitive roots, proved Euler Theorem and proved some special cases of famous Preda-Mihalescu Theorem and Fermat's Last Theorem. We also shared some Mathematics Olympiad problems for the students interested in the math competitions.
+We also applied it to prove a bunch of well-known theorems relating to primitive roots, proved Euler Theorem and proved some special cases of famous Preda-Mihalescu Theorem and Fermat's Last Theorem. We also shared some Mathematics Olympiad problems for the students interested in math competitions.
 
 # We got the awards
 
