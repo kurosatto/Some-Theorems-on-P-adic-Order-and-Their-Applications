@@ -11,6 +11,6 @@ We also applied it to prove a bunch of well-known theorems relating to primitive
 
 # Awards
 
--2010 Best High School Project in Math - Scientific and Technological Research Council of Turkey
+-2010 Best High School Research Project in Math - Scientific and Technological Research Council of Turkey
 
--2011 Intel ISEF Finalist
+-2011 Intel International Science and Engineering Fair Finalist
